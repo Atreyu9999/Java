@@ -1,0 +1,78 @@
+CHAPTER 2 ->OBJECT ORIENTATION
+1: B,E
+2:E
+3: E (A)
+4: class Aged {
+public Aged() {}
+public Aged(int x) {
+}
+}
+public class Kinder extends Aged {
+public Kinder(int x) {
+super();
+}
+}
+5: E (D)
+6: C
+7: A
+8: F
+
+9: D (A)
+10: C (B)
+11: E (C)
+13: A
+14: (E,G)
+15: C (E)
+16: A,C
+
+CHAPTER 3 -> ASSIGNMENTS
+1: C
+2: E
+3: C
+4: D (F)
+5: B (A)
+6: B
+7: A,B,G
+8: E
+9: C (D)
+10: E (A)
+11: D (B)
+12: E (B)
+13: E
+
+CHAPTER 4 -> OPERATORS
+
+1: D
+2: C
+3: E
+4: G
+5: class Incr {
+	public static void main(String[] args) {
+		Integer x = 7;
+		int y = 2;
+	}
+    }
+6: A
+7: A
+8: C
+9: C, F
+10: C (D)
+11: F (A)
+
+CHAPTER 5 -> FLOW CONTROL AND EXCEPTION
+1: C
+2: C (B)
+3: D, C (not E)
+4: E
+5: A, D, F
+6: E
+7: C
+8: D
+9: C (D, F)
+10: D
+11: H
+12: C
+13: B, E
+14: E
+15: B (D)
+16: D (C, D)
